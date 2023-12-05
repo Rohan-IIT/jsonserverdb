@@ -1,14 +1,31 @@
-[
-  {
-    "student_id": "101",
-    "first_name": "Alice",
-    "last_name": "Johnson",
-    "date_of_birth": "1998-03-15",
-  },
-  {
-    "student_id": "102",
-    "first_name": "Bob",
-    "last_name": "Smith",
-    "date_of_birth": "1999-06-20",
-  },
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
