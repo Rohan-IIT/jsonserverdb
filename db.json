@@ -1,61 +1,12 @@
-
-  [
+[
     {
       "id": 1,
       "first_name": "Alice",
       "last_name": "Johnson",
-      "contact": {
-        "mobile": "+1 (555) 111-2222",
-        "email": "alice.johnson@example.com"
-      },
-      "address": {
-        "street": "456 Oak Street",
-        "city": "Townsville",
-        "state": "Stateville",
-        "zip_code": "54321"
-      },
-      "courses": [
-        {
-          "name": "Biology",
-          "grade": "A"
-        },
-        {
-          "name": "History",
-          "grade": "B"
-        },
-        {
-          "name": "Spanish",
-          "grade": "A-"
-        }
-      ]
     },
     {
       "id": 2,
       "first_name": "Bob",
       "last_name": "Smith",
-      "contact": {
-        "mobile": "+1 (555) 555-1234",
-        "email": "bob.smith@example.com"
-      },
-      "address": {
-        "street": "789 Pine Avenue",
-        "city": "Cityville",
-        "state": "Stateville",
-        "zip_code": "98765"
-      },
-      "courses": [
-        {
-          "name": "Mathematics",
-          "grade": "A+"
-        },
-        {
-          "name": "Chemistry",
-          "grade": "A"
-        },
-        {
-          "name": "English",
-          "grade": "B+"
-        }
-      ]
     }
-  ]
+]
